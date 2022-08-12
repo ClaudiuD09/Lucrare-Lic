@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ball Animation
+* source:	https://sketchfab.com/3d-models/ball-animation-8c9078e0f2a542a78e1f58498b52406c
+* author:	merenunal99 (https://sketchfab.com/merenunal99)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ball Animation" (https://sketchfab.com/3d-models/ball-animation-8c9078e0f2a542a78e1f58498b52406c) by merenunal99 (https://sketchfab.com/merenunal99) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
